@@ -1,10 +1,10 @@
 <scheme name="Wombatish" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-31T10:20:05</property>
+    <property name="created">2019-01-31T10:39:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-31T10:20:10</property>
+    <property name="modified">2019-01-31T10:39:53</property>
     <property name="originalScheme">Wombatish</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -97,7 +97,22 @@
         <option name="FOREGROUND" value="82cfff" />
       </value>
     </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c56fff" />
+      </value>
+    </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="99ff00" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c56fff" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fffdf8" />
