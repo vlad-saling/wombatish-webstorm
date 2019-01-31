@@ -1,11 +1,15 @@
 <scheme name="Wombatish" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-30T13:08:24</property>
+    <property name="created">2019-01-31T10:20:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-30T13:08:37</property>
+    <property name="modified">2019-01-31T10:20:10</property>
     <property name="originalScheme">Wombatish</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
     <option name="CSS.FUNCTION">
       <value>
@@ -68,6 +72,11 @@
         <option name="FOREGROUND" value="65d9db" />
       </value>
     </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="87a353" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="99ff00" />
@@ -88,6 +97,7 @@
         <option name="FOREGROUND" value="82cfff" />
       </value>
     </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fffdf8" />
