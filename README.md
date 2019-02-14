@@ -5,3 +5,6 @@ Installations instructions:
 1) Download ICLS file
 2) Import color scheme manually into Webstorm
 3) Optional: works well with Consolas or Menlo font
+
+
+Plugin is published @ https://plugins.jetbrains.com/plugin/11928-wombatish-color-scheme
